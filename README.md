@@ -1,5 +1,5 @@
 # Image Segmentation via Spectral Clustering with Density Sensitive Similarity Function
-![Segmentation results](https://raw.githubusercontent.com/zaynxalic/Normalised-cut/blob/main/result.png)
+![Segmentation results](https://raw.githubusercontent.com/zaynxalic/Normalised-cut/blob/main/result.png?raw=true)
 ## File structure:
 ```
 ├── data/
